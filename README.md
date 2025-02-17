@@ -14,7 +14,7 @@ Microcontroller: Arduino Uno
 # Virtual Prototype
 A virtual prototype of the Adaptive Traffic Light System has been developed using Tinkercad, an online simulation platform. This prototype allows for testing and visualization of the system's functionality before physical implementation.
 
-Tinkercad Model Link: Adaptive Traffic Light System on Tinkercad
+Tinkercad Model Link: - [Adaptive Traffic Light System on Tinkercad](https://www.tinkercad.com/things/hLeGNquayHd/editel?returnTo=%2Fdashboard&sharecode=9o8Co3ha0FYXQ2WgP38SyBCF3VPplbhYBZKHiCZhICw)
 
 # Prototype Image:
 
