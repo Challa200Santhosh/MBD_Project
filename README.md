@@ -18,22 +18,26 @@ Tinkercad Model Link: - [Adaptive Traffic Light System on Tinkercad](https://www
 
 # Prototype Image:
 
+-[Image](https://github.com/Challa200Santhosh/MBD_Project/blob/main/SmartTC_Project/Tinkercad/WhatsApp%20Image%202025-02-16%20at%2021.20.21_befedc2d.jpg)
 
 # Working Video of Tinkercad Simulation
 To observe the system in action within the Tinkercad environment, refer to the following video:
 
-Working Video of Tinkercad Simulation
+-[Working Video of Tinkercad Simulation](https://github.com/Challa200Santhosh/MBD_Project/blob/main/SmartTC_Project/Tinkercad/WhatsApp%20Video%202025-02-16%20at%2021.51.51_0427e33d.mp4)
 
 # Hardware Implementation
 For insights into the physical assembly and deployment of the Adaptive Traffic Light System, please refer to the following resource:
 
-Hardware Implementation of Adaptive Traffic Light
+- [Hardware Implementation of Adaptive Traffic Light](https://github.com/Challa200Santhosh/MBD_Project/tree/main/SmartTC_Project/Hardware%20Implenetation)
 
-MATLAB Simulink Implementation
+# MATLAB Simulink Implementation
 To explore various control logics for the traffic light system, MATLAB Simulink models have been developed. These models simulate different scenarios and strategies for traffic management.
-this are the four diffrent Simulink models
 
-Simulation of Adaptive Traffic Signal Controller in MATLAB Simulink
+There are the four diffrent Simulink models
+
+-[Simulation of Adaptive Traffic Signal Controller_Santhosh](https://github.com/Challa200Santhosh/MBD_Project/blob/main/SmartTC_Project/Simulation/STC_Santhosh.autosave)
+
+-[Simulation of Adaptive Traffic Signal Controller_Siva](https://github.com/Challa200Santhosh/MBD_Project/blob/main/SmartTC_Project/Simulation/STC_SIva.slx)
 
 
 
