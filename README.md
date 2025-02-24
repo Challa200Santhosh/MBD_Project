@@ -39,5 +39,6 @@ There are the four diffrent Simulink models
 
 - [Simulation of Adaptive Traffic Signal Controller_Siva](https://github.com/Challa200Santhosh/MBD_Project/blob/main/SmartTC_Project/Simulation/STC_SIva.slx)
 
+- [Simulation of Adaptive Traffic Signal Controller_Sagar](SmartTC_Project/Simulation/Traffic_controller_Sagar.slx)
 
 
